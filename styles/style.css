@@ -12,3 +12,12 @@ margin: 0;
     margin: 24px auto;
     text-align: center;
 }
+.text-white {
+    color: white;
+    text-align: center;
+}
+
+.text-white a {
+    color: white;
+    font-size: 36px;
+}
