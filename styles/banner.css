@@ -1,0 +1,18 @@
+.banner{
+    background-image: url("../images/lili.jpeg");
+height: 80vh;
+background-size: cover;
+background-position: center;
+color: white;
+display: flex ;
+flex-direction: column;
+justify-content: flex-end;
+align-items: center;
+}
+.banner h1, .banner p {
+    color: whitesmoke;
+    
+
+} 
+
+
